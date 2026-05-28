@@ -1,0 +1,501 @@
+week,address,number of delivered orders,basket size,bad rated orders due to wrong or missing products,bad rated orders due to store packaging issues,bad rated orders due to store allergy not considered,bad rated orders due to to poor quality,cancelled orders due to customer absent,cancelled orders due to partner printer/internet issue,cancelled orders due to partner products not available,cancelled orders due to partner store closed,cancelled orders due to store cant deliver,refunds to customer,total cancelled orders,total orders,cancellation rate (%),city,state
+2025-01-04,"Av. de Monforte de Lemos, 12, Madrid, Spain",104,21.65,1,0,0,1,0,0,0,0,0,3.25,0,104,0.0,Madrid,Madrid
+2025-02-01,"Av. de Monforte de Lemos, 12, Madrid, Spain",124,20.95,1,0,0,0,0,0,0,0,0,3.14,0,124,0.0,Madrid,Madrid
+2025-02-08,"Av. de Monforte de Lemos, 12, Madrid, Spain",71,22.94,1,0,0,0,0,0,0,0,0,11.47,0,71,0.0,Madrid,Madrid
+2025-02-15,"Av. de Monforte de Lemos, 12, Madrid, Spain",76,21.11,1,0,0,0,0,0,0,0,0,3.17,0,76,0.0,Madrid,Madrid
+2025-03-08,"Av. de Monforte de Lemos, 12, Madrid, Spain",87,22.43,1,0,0,1,0,0,0,0,0,6.73,0,87,0.0,Madrid,Madrid
+2025-04-05,"Av. de Monforte de Lemos, 12, Madrid, Spain",90,23.42,1,0,0,1,0,0,0,0,0,3.51,0,90,0.0,Madrid,Madrid
+2025-04-26,"Av. de Monforte de Lemos, 12, Madrid, Spain",97,24.75,1,0,0,0,0,0,0,0,0,12.38,0,97,0.0,Madrid,Madrid
+2025-05-17,"Av. de Monforte de Lemos, 12, Madrid, Spain",109,20.81,1,0,0,0,0,0,0,0,0,10.41,0,109,0.0,Madrid,Madrid
+2025-05-24,"Av. de Monforte de Lemos, 12, Madrid, Spain",86,22.18,1,0,0,0,0,0,0,0,0,3.33,0,86,0.0,Madrid,Madrid
+2020-12-28,"Av. de Monforte de Lemos, 12, Madrid, Spain",84,23.32,2,0,0,1,0,0,0,0,0,23.32,0,84,0.0,Madrid,Madrid
+2025-01-11,"Av. de Monforte de Lemos, 12, Madrid, Spain",41,23.95,2,0,0,0,0,0,0,0,0,14.37,0,41,0.0,Madrid,Madrid
+2025-01-18,"Av. de Monforte de Lemos, 12, Madrid, Spain",121,20.3,2,0,0,0,0,0,0,0,0,20.3,0,121,0.0,Madrid,Madrid
+2025-03-15,"Av. de Monforte de Lemos, 12, Madrid, Spain",99,21.94,2,0,0,1,0,0,0,0,0,6.58,0,99,0.0,Madrid,Madrid
+2025-03-22,"Av. de Monforte de Lemos, 12, Madrid, Spain",90,24.09,2,0,0,0,0,0,0,0,0,24.09,0,90,0.0,Madrid,Madrid
+2025-03-29,"Av. de Monforte de Lemos, 12, Madrid, Spain",86,23.66,2,0,0,0,0,0,0,0,0,14.2,0,86,0.0,Madrid,Madrid
+2025-02-22,"Av. de Monforte de Lemos, 12, Madrid, Spain",69,21.23,0,0,0,2,0,0,0,0,0,0.0,0,69,0.0,Madrid,Madrid
+2025-04-12,"Av. de Monforte de Lemos, 12, Madrid, Spain",68,20.31,2,0,0,0,0,0,0,0,0,12.19,0,68,0.0,Madrid,Madrid
+2025-03-01,"Av. de Monforte de Lemos, 12, Madrid, Spain",96,22.03,0,0,0,0,0,0,0,0,0,0.0,0,96,0.0,Madrid,Madrid
+2025-04-19,"Av. de Monforte de Lemos, 12, Madrid, Spain",76,20.65,2,0,0,0,0,2,0,0,1,6.2,3,79,3.79746835443038,Madrid,Madrid
+2025-01-25,"Av. de Monforte de Lemos, 12, Madrid, Spain",122,20.2,3,0,0,0,0,0,0,0,0,18.18,0,122,0.0,Madrid,Madrid
+2025-05-03,"Av. de Monforte de Lemos, 12, Madrid, Spain",117,22.17,3,0,0,0,0,0,0,0,0,9.98,0,117,0.0,Madrid,Madrid
+2025-05-10,"Av. de Monforte de Lemos, 12, Madrid, Spain",112,20.84,3,0,0,0,0,0,0,0,0,31.26,0,112,0.0,Madrid,Madrid
+2025-05-31,"Av. de Monforte de Lemos, 12, Madrid, Spain",107,19.8,3,0,0,0,0,0,0,0,1,17.82,1,108,0.9259259259259258,Madrid,Madrid
+2025-01-04,"Calle Albacete 10, Madrid, Spain",68,27.16,1,0,0,1,0,0,0,0,0,8.15,0,68,0.0,Madrid,Madrid
+2025-01-11,"Calle Albacete 10, Madrid, Spain",25,22.61,1,0,0,0,0,0,0,0,0,3.39,0,25,0.0,Madrid,Madrid
+2025-01-18,"Calle Albacete 10, Madrid, Spain",125,23.57,1,1,0,0,0,0,0,0,0,3.54,0,125,0.0,Madrid,Madrid
+2025-02-22,"Calle Albacete 10, Madrid, Spain",75,23.96,1,0,0,0,0,0,0,0,0,7.19,0,75,0.0,Madrid,Madrid
+2025-03-08,"Calle Albacete 10, Madrid, Spain",52,26.45,1,0,0,0,0,0,0,0,0,13.23,0,52,0.0,Madrid,Madrid
+2025-04-05,"Calle Albacete 10, Madrid, Spain",56,26.47,1,0,0,0,0,0,0,0,0,7.94,0,56,0.0,Madrid,Madrid
+2025-04-26,"Calle Albacete 10, Madrid, Spain",82,23.43,1,0,0,0,0,0,0,0,0,7.03,0,82,0.0,Madrid,Madrid
+2025-05-03,"Calle Albacete 10, Madrid, Spain",65,23.4,1,0,0,1,0,0,0,0,0,7.02,0,65,0.0,Madrid,Madrid
+2025-02-08,"Calle Albacete 10, Madrid, Spain",71,23.56,2,0,0,0,0,0,0,0,0,7.07,0,71,0.0,Madrid,Madrid
+2025-03-15,"Calle Albacete 10, Madrid, Spain",60,23.15,2,0,0,0,0,0,0,0,0,6.95,0,60,0.0,Madrid,Madrid
+2020-12-28,"Calle Albacete 10, Madrid, Spain",108,24.86,3,0,0,1,0,0,0,0,0,22.37,0,108,0.0,Madrid,Madrid
+2025-02-15,"Calle Albacete 10, Madrid, Spain",79,22.4,3,1,0,0,0,0,0,0,0,33.6,0,79,0.0,Madrid,Madrid
+2025-03-01,"Calle Albacete 10, Madrid, Spain",75,21.04,3,0,0,0,0,0,0,0,0,31.56,0,75,0.0,Madrid,Madrid
+2025-03-29,"Calle Albacete 10, Madrid, Spain",67,24.18,0,0,0,0,0,0,0,0,0,0.0,0,67,0.0,Madrid,Madrid
+2025-03-22,"Calle Albacete 10, Madrid, Spain",62,23.12,3,0,0,0,0,0,0,0,0,20.81,0,62,0.0,Madrid,Madrid
+2025-04-12,"Calle Albacete 10, Madrid, Spain",55,24.66,3,0,0,1,0,0,0,0,0,22.19,0,55,0.0,Madrid,Madrid
+2025-01-25,"Calle Albacete 10, Madrid, Spain",121,20.29,4,0,1,1,0,0,0,0,0,40.58,0,121,0.0,Madrid,Madrid
+2025-02-01,"Calle Albacete 10, Madrid, Spain",136,22.05,4,0,0,1,0,0,0,0,0,44.1,0,136,0.0,Madrid,Madrid
+2025-04-19,"Calle Albacete 10, Madrid, Spain",51,23.65,4,0,0,0,0,0,0,0,0,28.38,0,51,0.0,Madrid,Madrid
+2025-05-10,"Calle Albacete 10, Madrid, Spain",72,22.4,4,0,0,0,0,0,0,0,0,26.88,0,72,0.0,Madrid,Madrid
+2025-05-17,"Calle Albacete 10, Madrid, Spain",60,22.29,0,0,0,1,0,0,0,0,0,0.0,0,60,0.0,Madrid,Madrid
+2025-05-24,"Calle Albacete 10, Madrid, Spain",58,23.22,0,0,1,0,0,0,0,0,0,0.0,0,58,0.0,Madrid,Madrid
+2025-05-31,"Calle Albacete 10, Madrid, Spain",71,21.77,0,0,0,0,0,0,0,0,0,0.0,0,71,0.0,Madrid,Madrid
+2025-01-11,"Nuñez de Balboa 118, Madrid, Spain",56,20.51,1,0,0,0,0,0,0,0,0,10.26,0,56,0.0,Madrid,Madrid
+2025-05-31,"Nuñez de Balboa 118, Madrid, Spain",80,18.44,1,0,0,1,0,0,0,0,0,9.22,0,80,0.0,Madrid,Madrid
+2025-01-18,"Nuñez de Balboa 118, Madrid, Spain",133,18.56,2,0,0,0,1,0,0,0,0,5.57,1,134,0.7462686567164178,Madrid,Madrid
+2025-02-08,"Nuñez de Balboa 118, Madrid, Spain",125,20.45,2,0,0,0,0,0,0,0,0,20.45,0,125,0.0,Madrid,Madrid
+2025-02-15,"Nuñez de Balboa 118, Madrid, Spain",100,19.29,2,0,0,0,0,0,0,0,0,11.57,0,100,0.0,Madrid,Madrid
+2020-12-28,"Nuñez de Balboa 118, Madrid, Spain",51,20.2,3,0,0,0,0,0,0,0,0,9.09,0,51,0.0,Madrid,Madrid
+2025-03-15,"Nuñez de Balboa 118, Madrid, Spain",87,17.57,0,0,2,0,1,0,0,0,0,0.0,1,88,1.1363636363636365,Madrid,Madrid
+2025-03-01,"Nuñez de Balboa 118, Madrid, Spain",105,20.68,3,0,0,0,0,0,0,0,0,18.61,0,105,0.0,Madrid,Madrid
+2025-03-08,"Nuñez de Balboa 118, Madrid, Spain",87,18.19,3,0,0,1,0,0,0,0,0,8.19,0,87,0.0,Madrid,Madrid
+2025-03-22,"Nuñez de Balboa 118, Madrid, Spain",71,19.53,3,0,0,0,0,0,0,0,0,29.3,0,71,0.0,Madrid,Madrid
+2025-04-12,"Nuñez de Balboa 118, Madrid, Spain",85,19.77,3,0,1,0,0,0,0,0,0,8.9,0,85,0.0,Madrid,Madrid
+2025-04-19,"Nuñez de Balboa 118, Madrid, Spain",85,18.8,3,0,0,0,0,0,0,0,0,16.92,0,85,0.0,Madrid,Madrid
+2025-01-25,"Nuñez de Balboa 118, Madrid, Spain",129,19.2,4,0,0,2,0,0,0,0,0,11.52,0,129,0.0,Madrid,Madrid
+2025-02-22,"Nuñez de Balboa 118, Madrid, Spain",81,20.09,4,0,0,0,0,0,0,0,0,24.11,0,81,0.0,Madrid,Madrid
+2025-04-05,"Nuñez de Balboa 118, Madrid, Spain",78,19.41,4,0,0,0,0,0,0,0,0,23.29,0,78,0.0,Madrid,Madrid
+2025-05-17,"Nuñez de Balboa 118, Madrid, Spain",89,18.09,4,0,0,0,0,0,0,0,0,21.71,0,89,0.0,Madrid,Madrid
+2025-01-04,"Nuñez de Balboa 118, Madrid, Spain",88,19.3,5,0,0,1,0,0,0,0,0,48.25,0,88,0.0,Madrid,Madrid
+2025-02-01,"Nuñez de Balboa 118, Madrid, Spain",132,19.5,5,0,0,0,0,0,0,0,0,48.75,0,132,0.0,Madrid,Madrid
+2025-03-29,"Nuñez de Balboa 118, Madrid, Spain",70,18.18,5,0,0,0,0,0,0,0,0,13.64,0,70,0.0,Madrid,Madrid
+2025-05-03,"Nuñez de Balboa 118, Madrid, Spain",112,19.23,5,0,0,0,0,0,0,0,0,48.08,0,112,0.0,Madrid,Madrid
+2025-05-10,"Nuñez de Balboa 118, Madrid, Spain",93,18.18,5,0,0,0,0,0,0,0,0,27.27,0,93,0.0,Madrid,Madrid
+2025-04-26,"Nuñez de Balboa 118, Madrid, Spain",92,18.58,6,0,0,0,0,0,0,0,0,16.72,0,92,0.0,Madrid,Madrid
+2025-05-24,"Nuñez de Balboa 118, Madrid, Spain",71,20.92,6,0,0,0,0,0,0,0,0,18.83,0,71,0.0,Madrid,Madrid
+2025-01-25,"Calle Aracne, Madrid, Spain",13,20.58,1,0,0,0,0,0,0,2,0,3.09,2,15,13.333333333333334,Madrid,Madrid
+2025-02-08,"Calle Aracne, Madrid, Spain",8,24.9,1,0,0,0,0,0,0,0,0,3.74,0,8,0.0,Madrid,Madrid
+2025-03-01,"Calle Aracne, Madrid, Spain",2,29.13,1,0,0,0,0,0,0,0,0,8.74,0,2,0.0,Madrid,Madrid
+2025-02-01,"Calle Aracne, Madrid, Spain",12,18.51,2,0,0,0,0,0,0,1,0,5.55,1,13,7.6923076923076925,Madrid,Madrid
+2025-02-15,"Calle Aracne, Madrid, Spain",6,29.27,0,0,0,0,0,0,0,0,0,0.0,0,6,0.0,Madrid,Madrid
+2025-02-22,"Calle Aracne, Madrid, Spain",1,29.5,0,0,0,0,0,0,0,0,0,0.0,0,1,0.0,Madrid,Madrid
+2025-04-26,"Calle Aracne, Madrid, Spain",3,28.83,2,0,0,0,0,0,0,0,0,8.65,0,3,0.0,Madrid,Madrid
+2025-03-08,"Calle Aracne, Madrid, Spain",3,27.92,0,0,0,0,0,0,0,0,0,0.0,0,3,0.0,Madrid,Madrid
+2025-03-15,"Calle Aracne, Madrid, Spain",5,13.27,0,0,0,0,0,0,0,0,0,0.0,0,5,0.0,Madrid,Madrid
+2025-03-22,"Calle Aracne, Madrid, Spain",3,26.78,0,0,0,0,0,0,0,0,0,0.0,0,3,0.0,Madrid,Madrid
+2025-03-29,"Calle Aracne, Madrid, Spain",4,28.25,0,0,0,0,0,0,0,0,0,0.0,0,4,0.0,Madrid,Madrid
+2025-04-05,"Calle Aracne, Madrid, Spain",4,19.94,0,0,0,0,0,0,0,0,0,0.0,0,4,0.0,Madrid,Madrid
+2020-12-28,"Calle Aracne, Madrid, Spain",9,24.93,4,0,0,0,0,0,0,1,0,49.86,1,10,10.0,Madrid,Madrid
+2025-01-04,"Calle Aracne, Madrid, Spain",25,23.3,4,0,0,0,1,1,0,0,0,46.6,2,27,7.4074074074074066,Madrid,Madrid
+2025-04-19,"Calle Aracne, Madrid, Spain",5,28.0,0,0,0,0,0,0,0,0,0,0.0,0,5,0.0,Madrid,Madrid
+2025-05-03,"Calle Aracne, Madrid, Spain",7,24.41,0,0,0,0,0,0,0,0,0,0.0,0,7,0.0,Madrid,Madrid
+2025-05-10,"Calle Aracne, Madrid, Spain",7,24.37,0,0,0,0,0,0,0,0,0,0.0,0,7,0.0,Madrid,Madrid
+2025-05-17,"Calle Aracne, Madrid, Spain",9,18.83,0,0,0,0,0,0,0,0,0,0.0,0,9,0.0,Madrid,Madrid
+2025-01-18,"Calle Aracne, Madrid, Spain",44,23.29,9,0,0,0,0,0,0,0,0,104.81,0,44,0.0,Madrid,Madrid
+2025-05-24,"Calle Aracne, Madrid, Spain",2,22.75,0,0,0,0,0,0,0,0,0,0.0,0,2,0.0,Madrid,Madrid
+2025-05-31,"Calle Aracne, Madrid, Spain",3,30.5,0,0,0,0,0,0,0,0,0,0.0,0,3,0.0,Madrid,Madrid
+2025-01-04,"Calle de Alonso Cano 32, Madrid, Spain",48,20.14,1,0,0,0,0,0,0,0,0,10.07,0,48,0.0,Madrid,Madrid
+2025-02-01,"Calle de Alonso Cano 32, Madrid, Spain",71,15.11,1,0,0,1,0,0,0,0,0,4.53,0,71,0.0,Madrid,Madrid
+2025-01-11,"Calle de Alonso Cano 32, Madrid, Spain",49,16.31,0,0,0,1,0,0,0,4,0,0.0,4,53,7.547169811320755,Madrid,Madrid
+2025-02-22,"Calle de Alonso Cano 32, Madrid, Spain",53,18.43,1,0,0,0,0,0,0,1,0,2.76,1,54,1.8518518518518516,Madrid,Madrid
+2025-03-15,"Calle de Alonso Cano 32, Madrid, Spain",39,18.43,1,0,1,0,0,0,0,0,0,2.76,0,39,0.0,Madrid,Madrid
+2025-03-22,"Calle de Alonso Cano 32, Madrid, Spain",35,18.79,1,0,0,0,0,0,0,0,0,2.82,0,35,0.0,Madrid,Madrid
+2025-03-29,"Calle de Alonso Cano 32, Madrid, Spain",32,20.28,1,1,0,0,0,0,0,1,0,6.08,1,33,3.0303030303030303,Madrid,Madrid
+2025-04-12,"Calle de Alonso Cano 32, Madrid, Spain",32,15.81,1,0,0,0,0,0,0,0,0,7.91,0,32,0.0,Madrid,Madrid
+2025-04-19,"Calle de Alonso Cano 32, Madrid, Spain",36,16.68,1,0,0,0,0,0,0,0,0,2.5,0,36,0.0,Madrid,Madrid
+2025-04-26,"Calle de Alonso Cano 32, Madrid, Spain",45,15.9,1,0,0,0,0,0,0,0,0,2.39,0,45,0.0,Madrid,Madrid
+2020-12-28,"Calle de Alonso Cano 32, Madrid, Spain",41,19.62,2,0,0,0,0,0,0,0,0,5.89,0,41,0.0,Madrid,Madrid
+2025-04-05,"Calle de Alonso Cano 32, Madrid, Spain",42,15.76,2,0,0,0,0,0,0,1,0,15.76,1,43,2.3255813953488373,Madrid,Madrid
+2025-02-08,"Calle de Alonso Cano 32, Madrid, Spain",71,16.1,3,0,0,0,0,0,0,0,0,14.49,0,71,0.0,Madrid,Madrid
+2025-02-15,"Calle de Alonso Cano 32, Madrid, Spain",49,18.03,3,0,0,0,0,0,0,0,0,8.11,0,49,0.0,Madrid,Madrid
+2025-03-08,"Calle de Alonso Cano 32, Madrid, Spain",43,16.51,3,0,0,0,0,0,0,0,0,14.86,0,43,0.0,Madrid,Madrid
+2025-05-03,"Calle de Alonso Cano 32, Madrid, Spain",57,17.43,3,0,1,0,0,0,0,0,0,15.69,0,57,0.0,Madrid,Madrid
+2025-05-31,"Calle de Alonso Cano 32, Madrid, Spain",46,16.37,3,0,0,0,0,0,0,0,0,24.56,0,46,0.0,Madrid,Madrid
+2025-01-25,"Calle de Alonso Cano 32, Madrid, Spain",78,15.55,4,0,0,0,0,0,0,0,0,18.66,0,78,0.0,Madrid,Madrid
+2025-05-10,"Calle de Alonso Cano 32, Madrid, Spain",37,15.99,4,0,0,1,0,0,0,1,0,9.59,1,38,2.631578947368421,Madrid,Madrid
+2025-03-01,"Calle de Alonso Cano 32, Madrid, Spain",59,16.83,5,0,0,1,0,0,0,1,0,12.62,1,60,1.6666666666666667,Madrid,Madrid
+2025-05-17,"Calle de Alonso Cano 32, Madrid, Spain",46,15.55,0,0,0,0,0,0,0,0,0,0.0,0,46,0.0,Madrid,Madrid
+2025-05-24,"Calle de Alonso Cano 32, Madrid, Spain",26,15.21,0,0,0,0,0,0,0,3,0,0.0,3,29,10.344827586206897,Madrid,Madrid
+2025-01-18,"Calle de Alonso Cano 32, Madrid, Spain",107,15.76,9,0,0,0,0,0,0,1,0,113.47,1,108,0.9259259259259258,Madrid,Madrid
+2020-12-28,"Calle Campezo, 20, 28022 Madrid, España",32,21.2,0,0,0,0,0,0,0,2,0,0.0,2,34,5.88235294117647,Madrid,Madrid
+2025-02-15,"Calle Campezo, 20, 28022 Madrid, España",36,22.66,1,0,0,0,0,0,0,2,0,3.4,2,38,5.263157894736842,Madrid,Madrid
+2025-03-15,"Calle Campezo, 20, 28022 Madrid, España",31,18.74,1,0,0,0,0,0,0,0,0,2.81,0,31,0.0,Madrid,Madrid
+2025-03-22,"Calle Campezo, 20, 28022 Madrid, España",42,23.4,1,0,0,0,0,0,0,0,0,11.7,0,42,0.0,Madrid,Madrid
+2025-05-10,"Calle Campezo, 20, 28022 Madrid, España",40,21.26,1,0,0,0,0,0,0,0,0,6.38,0,40,0.0,Madrid,Madrid
+2025-05-17,"Calle Campezo, 20, 28022 Madrid, España",50,24.7,1,0,0,1,0,0,0,0,0,3.71,0,50,0.0,Madrid,Madrid
+2025-01-04,"Calle Campezo, 20, 28022 Madrid, España",19,26.88,2,0,0,0,0,0,0,0,0,26.88,0,19,0.0,Madrid,Madrid
+2025-01-18,"Calle Campezo, 20, 28022 Madrid, España",32,23.13,2,0,0,0,0,0,0,1,0,23.13,1,33,3.0303030303030303,Madrid,Madrid
+2025-02-01,"Calle Campezo, 20, 28022 Madrid, España",36,21.02,2,0,0,0,0,0,0,0,0,21.02,0,36,0.0,Madrid,Madrid
+2025-02-08,"Calle Campezo, 20, 28022 Madrid, España",36,21.84,2,0,0,0,0,0,0,1,0,13.1,1,37,2.7027027027027026,Madrid,Madrid
+2025-03-01,"Calle Campezo, 20, 28022 Madrid, España",39,19.98,2,0,0,0,0,0,0,0,0,5.99,0,39,0.0,Madrid,Madrid
+2025-03-08,"Calle Campezo, 20, 28022 Madrid, España",45,21.9,2,1,0,0,0,0,0,0,0,13.14,0,45,0.0,Madrid,Madrid
+2025-04-05,"Calle Campezo, 20, 28022 Madrid, España",31,24.06,2,0,0,0,1,0,0,0,0,24.06,1,32,3.125,Madrid,Madrid
+2025-04-26,"Calle Campezo, 20, 28022 Madrid, España",51,22.77,2,0,0,0,0,0,0,0,0,22.77,0,51,0.0,Madrid,Madrid
+2025-05-31,"Calle Campezo, 20, 28022 Madrid, España",53,21.63,2,0,0,0,0,0,0,0,0,21.63,0,53,0.0,Madrid,Madrid
+2025-02-22,"Calle Campezo, 20, 28022 Madrid, España",43,20.48,3,0,0,0,0,0,0,0,0,18.43,0,43,0.0,Madrid,Madrid
+2025-03-29,"Calle Campezo, 20, 28022 Madrid, España",49,20.49,0,0,0,0,0,0,0,0,0,0.0,0,49,0.0,Madrid,Madrid
+2025-05-03,"Calle Campezo, 20, 28022 Madrid, España",48,19.64,3,0,0,1,1,0,0,0,0,17.68,1,49,2.0408163265306123,Madrid,Madrid
+2025-05-24,"Calle Campezo, 20, 28022 Madrid, España",61,18.67,3,0,0,0,0,0,0,0,0,16.8,0,61,0.0,Madrid,Madrid
+2025-04-12,"Calle Campezo, 20, 28022 Madrid, España",38,23.98,0,0,0,0,0,0,0,1,0,0.0,1,39,2.564102564102564,Madrid,Madrid
+2025-01-25,"Calle Campezo, 20, 28022 Madrid, España",35,22.22,4,0,0,0,0,0,0,0,0,13.33,0,35,0.0,Madrid,Madrid
+2025-04-19,"Calle Campezo, 20, 28022 Madrid, España",32,23.46,0,0,0,0,0,0,0,0,0,0.0,0,32,0.0,Madrid,Madrid
+2025-01-11,"Calle de Alcalá, 300, 28027 Madrid, Spain",70,22.93,1,0,0,1,0,0,0,0,0,6.88,0,70,0.0,Madrid,Madrid
+2025-02-15,"Calle de Alcalá, 300, 28027 Madrid, Spain",200,20.1,2,0,0,2,0,0,0,0,0,20.1,0,200,0.0,Madrid,Madrid
+2025-02-22,"Calle de Alcalá, 300, 28027 Madrid, Spain",122,19.0,2,1,0,1,0,0,0,0,0,19.0,0,122,0.0,Madrid,Madrid
+2025-03-15,"Calle de Alcalá, 300, 28027 Madrid, Spain",127,19.7,2,0,1,0,0,0,0,0,0,19.7,0,127,0.0,Madrid,Madrid
+2025-03-22,"Calle de Alcalá, 300, 28027 Madrid, Spain",102,19.12,2,0,0,1,0,0,0,0,0,11.47,0,102,0.0,Madrid,Madrid
+2025-04-19,"Calle de Alcalá, 300, 28027 Madrid, Spain",94,19.12,2,0,0,2,0,2,0,0,0,19.12,2,96,2.083333333333333,Madrid,Madrid
+2025-01-04,"Calle de Alcalá, 300, 28027 Madrid, Spain",96,20.14,3,0,0,2,1,0,0,0,0,9.06,1,97,1.0309278350515463,Madrid,Madrid
+2025-03-01,"Calle de Alcalá, 300, 28027 Madrid, Spain",144,19.03,3,0,0,0,1,0,0,0,0,8.56,1,145,0.6896551724137931,Madrid,Madrid
+2025-01-18,"Calle de Alcalá, 300, 28027 Madrid, Spain",185,19.5,4,0,0,1,0,0,0,1,1,23.4,2,187,1.06951871657754,Madrid,Madrid
+2025-03-08,"Calle de Alcalá, 300, 28027 Madrid, Spain",134,18.64,4,1,0,1,0,0,0,0,1,11.18,1,135,0.7407407407407408,Madrid,Madrid
+2025-03-29,"Calle de Alcalá, 300, 28027 Madrid, Spain",120,20.62,4,1,0,1,1,0,0,0,0,24.74,1,121,0.8264462809917356,Madrid,Madrid
+2025-04-12,"Calle de Alcalá, 300, 28027 Madrid, Spain",91,18.91,4,0,0,0,0,5,0,0,0,37.82,5,96,5.208333333333334,Madrid,Madrid
+2025-04-05,"Calle de Alcalá, 300, 28027 Madrid, Spain",108,18.97,5,0,0,0,0,0,0,0,0,47.43,0,108,0.0,Madrid,Madrid
+2020-12-28,"Calle de Alcalá, 300, 28027 Madrid, Spain",109,20.39,6,0,0,4,0,0,0,1,1,61.17,2,111,1.8018018018018018,Madrid,Madrid
+2025-01-25,"Calle de Alcalá, 300, 28027 Madrid, Spain",160,19.15,6,0,0,3,0,0,0,0,0,17.24,0,160,0.0,Madrid,Madrid
+2025-05-03,"Calle de Alcalá, 300, 28027 Madrid, Spain",108,19.39,8,0,0,0,1,1,0,0,0,77.56,2,110,1.8181818181818181,Madrid,Madrid
+2025-02-01,"Calle de Alcalá, 300, 28027 Madrid, Spain",184,20.23,10,0,0,0,0,0,0,0,0,101.15,0,184,0.0,Madrid,Madrid
+2025-04-26,"Calle de Alcalá, 300, 28027 Madrid, Spain",90,20.18,10,0,0,0,1,2,0,0,0,60.54,3,93,3.225806451612903,Madrid,Madrid
+2025-02-08,"Calle de Alcalá, 300, 28027 Madrid, Spain",171,19.24,12,1,0,0,1,0,0,0,0,34.63,1,172,0.5813953488372093,Madrid,Madrid
+2025-05-17,"Calle de Alcalá, 300, 28027 Madrid, Spain",60,19.88,12,0,0,0,0,1,0,0,0,190.85,1,61,1.639344262295082,Madrid,Madrid
+2025-05-31,"Calle de Alcalá, 300, 28027 Madrid, Spain",50,17.98,13,0,0,1,0,6,0,0,0,116.87,6,56,10.714285714285714,Madrid,Madrid
+2025-05-10,"Calle de Alcalá, 300, 28027 Madrid, Spain",94,18.63,14,0,0,0,0,4,0,0,0,208.66,4,98,4.081632653061225,Madrid,Madrid
+2025-05-24,"Calle de Alcalá, 300, 28027 Madrid, Spain",70,18.13,15,0,0,0,0,3,0,0,0,81.59,3,73,4.10958904109589,Madrid,Madrid
+2025-01-25,"Calle de Gran Via, 100, 28027 Madrid, España",113,20.0,1,0,0,0,0,0,0,0,0,16.0,0,113,0.0,Madrid,Madrid
+2025-02-08,"Calle de Gran Via, 100, 28027 Madrid, España",73,22.31,1,0,0,0,0,0,0,0,0,6.69,0,73,0.0,Madrid,Madrid
+2025-01-11,"Calle de Gran Via, 100, 28027 Madrid, España",0,0.0,0,0,0,0,0,0,0,0,0,0.0,0,0,0.0,Madrid,Madrid
+2025-03-08,"Calle de Gran Via, 100, 28027 Madrid, España",95,19.98,1,0,0,0,0,0,0,0,2,9.99,2,97,2.0618556701030926,Madrid,Madrid
+2025-03-22,"Calle de Gran Via, 100, 28027 Madrid, España",86,20.89,1,1,1,0,0,0,0,0,0,3.13,0,86,0.0,Madrid,Madrid
+2025-04-12,"Calle de Gran Via, 100, 28027 Madrid, España",127,19.89,1,0,0,0,1,0,0,0,0,9.95,1,128,0.78125,Madrid,Madrid
+2025-05-24,"Calle de Gran Via, 100, 28027 Madrid, España",122,19.45,1,0,0,0,0,0,0,0,0,9.73,0,122,0.0,Madrid,Madrid
+2025-02-15,"Calle de Gran Via, 100, 28027 Madrid, España",124,19.05,0,0,0,0,0,0,0,0,0,0.0,0,124,0.0,Madrid,Madrid
+2025-04-26,"Calle de Gran Via, 100, 28027 Madrid, España",145,18.24,2,0,1,0,0,0,0,0,0,10.94,0,145,0.0,Madrid,Madrid
+2025-05-17,"Calle de Gran Via, 100, 28027 Madrid, España",111,18.03,2,0,0,0,0,0,0,0,0,18.03,0,111,0.0,Madrid,Madrid
+2025-05-31,"Calle de Gran Via, 100, 28027 Madrid, España",110,20.2,2,0,0,0,0,0,0,0,0,12.12,0,110,0.0,Madrid,Madrid
+2025-01-04,"Calle de Gran Via, 100, 28027 Madrid, España",83,23.56,3,0,1,0,0,0,0,0,0,21.2,0,83,0.0,Madrid,Madrid
+2025-03-01,"Calle de Gran Via, 100, 28027 Madrid, España",105,20.89,3,1,0,2,0,0,0,0,0,31.34,0,105,0.0,Madrid,Madrid
+2025-03-29,"Calle de Gran Via, 100, 28027 Madrid, España",119,21.38,0,1,0,0,0,0,0,0,0,0.0,0,119,0.0,Madrid,Madrid
+2025-04-19,"Calle de Gran Via, 100, 28027 Madrid, España",128,20.32,3,0,1,0,0,0,0,0,0,9.14,0,128,0.0,Madrid,Madrid
+2025-05-03,"Calle de Gran Via, 100, 28027 Madrid, España",108,20.66,3,0,0,0,0,0,0,0,0,30.99,0,108,0.0,Madrid,Madrid
+2025-04-05,"Calle de Gran Via, 100, 28027 Madrid, España",124,18.24,0,1,0,1,0,0,0,0,0,0.0,0,124,0.0,Madrid,Madrid
+2025-05-10,"Calle de Gran Via, 100, 28027 Madrid, España",117,18.33,3,0,0,0,0,0,0,0,0,16.5,0,117,0.0,Madrid,Madrid
+2020-12-28,"Calle de Gran Via, 100, 28027 Madrid, España",114,22.81,4,0,0,0,0,0,0,0,0,13.69,0,114,0.0,Madrid,Madrid
+2025-01-18,"Calle de Gran Via, 100, 28027 Madrid, España",118,20.3,4,0,0,0,0,0,0,0,0,12.18,0,118,0.0,Madrid,Madrid
+2025-02-22,"Calle de Gran Via, 100, 28027 Madrid, España",127,20.12,4,0,0,0,0,0,0,0,0,40.24,0,127,0.0,Madrid,Madrid
+2025-02-01,"Calle de Gran Via, 100, 28027 Madrid, España",112,21.68,6,0,0,0,0,0,0,0,0,39.02,0,112,0.0,Madrid,Madrid
+2025-03-15,"Calle de Gran Via, 100, 28027 Madrid, España",91,21.52,7,0,0,0,0,0,0,0,0,45.19,0,91,0.0,Madrid,Madrid
+2020-12-28,"Calle de Bravo Murillo, 380, Madrid, Spain",88,20.92,3,1,0,1,0,0,4,2,0,18.83,6,94,6.382978723404255,Madrid,Madrid
+2025-01-25,"Calle de Bravo Murillo, 380, Madrid, Spain",116,18.62,3,1,0,0,0,0,1,0,0,8.38,1,117,0.8547008547008548,Madrid,Madrid
+2025-05-10,"Calle de Bravo Murillo, 380, Madrid, Spain",90,20.28,3,0,0,0,0,0,0,0,0,18.25,0,90,0.0,Madrid,Madrid
+2025-05-31,"Calle de Bravo Murillo, 380, Madrid, Spain",99,20.15,3,0,0,0,0,0,0,0,0,9.07,0,99,0.0,Madrid,Madrid
+2025-03-01,"Calle de Bravo Murillo, 380, Madrid, Spain",114,20.67,4,1,1,1,0,0,0,0,0,41.34,0,114,0.0,Madrid,Madrid
+2025-05-17,"Calle de Bravo Murillo, 380, Madrid, Spain",85,18.79,4,0,0,1,0,0,0,0,0,37.58,0,85,0.0,Madrid,Madrid
+2025-01-11,"Calle de Bravo Murillo, 380, Madrid, Spain",46,19.87,5,0,0,1,1,0,0,0,0,14.9,1,47,2.127659574468085,Madrid,Madrid
+2025-03-08,"Calle de Bravo Murillo, 380, Madrid, Spain",91,18.65,5,0,1,2,0,0,1,0,0,27.98,1,92,1.0869565217391304,Madrid,Madrid
+2025-03-29,"Calle de Bravo Murillo, 380, Madrid, Spain",94,19.53,5,0,0,1,0,0,0,0,0,48.83,0,94,0.0,Madrid,Madrid
+2025-04-05,"Calle de Bravo Murillo, 380, Madrid, Spain",88,21.12,5,1,0,0,0,0,0,0,0,31.68,0,88,0.0,Madrid,Madrid
+2025-03-22,"Calle de Bravo Murillo, 380, Madrid, Spain",88,20.91,6,0,0,0,0,0,0,0,0,62.73,0,88,0.0,Madrid,Madrid
+2025-04-12,"Calle de Bravo Murillo, 380, Madrid, Spain",95,18.19,6,1,0,1,0,1,0,0,2,54.57,3,98,3.061224489795918,Madrid,Madrid
+2025-04-19,"Calle de Bravo Murillo, 380, Madrid, Spain",97,20.63,6,1,0,0,0,0,0,0,0,18.57,0,97,0.0,Madrid,Madrid
+2025-05-24,"Calle de Bravo Murillo, 380, Madrid, Spain",85,19.39,6,0,0,0,0,0,0,0,0,58.17,0,85,0.0,Madrid,Madrid
+2025-01-04,"Calle de Bravo Murillo, 380, Madrid, Spain",124,20.87,7,1,0,0,0,0,0,0,0,73.05,0,124,0.0,Madrid,Madrid
+2025-02-22,"Calle de Bravo Murillo, 380, Madrid, Spain",104,19.45,7,0,0,0,0,0,5,0,1,20.42,6,110,5.454545454545454,Madrid,Madrid
+2025-05-03,"Calle de Bravo Murillo, 380, Madrid, Spain",109,20.08,7,0,0,0,0,0,10,0,0,70.28,10,119,8.403361344537815,Madrid,Madrid
+2025-02-15,"Calle de Bravo Murillo, 380, Madrid, Spain",94,20.25,8,0,0,1,0,0,0,0,0,81.0,0,94,0.0,Madrid,Madrid
+2025-03-15,"Calle de Bravo Murillo, 380, Madrid, Spain",104,19.39,8,1,0,2,0,0,1,0,0,23.27,1,105,0.9523809523809524,Madrid,Madrid
+2025-04-26,"Calle de Bravo Murillo, 380, Madrid, Spain",94,18.77,9,0,0,1,0,0,0,0,0,135.14,0,94,0.0,Madrid,Madrid
+2025-02-08,"Calle de Bravo Murillo, 380, Madrid, Spain",127,17.68,10,2,1,1,0,0,0,0,0,26.52,0,127,0.0,Madrid,Madrid
+2025-01-18,"Calle de Bravo Murillo, 380, Madrid, Spain",161,18.75,12,0,0,1,0,0,6,4,4,112.5,14,175,8.0,Madrid,Madrid
+2025-02-01,"Calle de Bravo Murillo, 380, Madrid, Spain",168,18.69,13,0,0,3,0,0,1,0,0,72.89,1,169,0.591715976331361,Madrid,Madrid
+2025-05-10,"Calle de la Fuente Carrantona, 50, 28030 Madrid, España",89,19.43,3,0,0,1,0,0,0,0,0,8.74,0,89,0.0,Madrid,Madrid
+2025-05-17,"Calle de la Fuente Carrantona, 50, 28030 Madrid, España",75,20.47,5,0,0,3,1,0,0,0,0,15.35,1,76,1.3157894736842104,Madrid,Madrid
+2025-04-26,"Calle de la Fuente Carrantona, 50, 28030 Madrid, España",47,22.82,6,0,0,0,0,0,0,0,1,109.54,1,48,2.083333333333333,Madrid,Madrid
+2025-05-03,"Calle de la Fuente Carrantona, 50, 28030 Madrid, España",101,21.21,7,0,0,1,0,0,0,0,0,22.27,0,101,0.0,Madrid,Madrid
+2025-05-24,"Calle de la Fuente Carrantona, 50, 28030 Madrid, España",24,19.63,0,0,0,0,0,0,0,0,1,0.0,1,25,4.0,Madrid,Madrid
+2025-01-11,"Calle de Maqueda, 100, Madrid, Spain",31,24.15,0,0,0,0,1,0,0,0,0,0.0,1,32,3.125,Madrid,Madrid
+2025-03-15,"Calle de Maqueda, 100, Madrid, Spain",105,18.9,2,0,0,1,0,0,0,0,0,18.9,0,105,0.0,Madrid,Madrid
+2025-03-22,"Calle de Maqueda, 100, Madrid, Spain",92,19.9,2,0,0,0,0,0,0,0,0,11.94,0,92,0.0,Madrid,Madrid
+2025-03-08,"Calle de Maqueda, 100, Madrid, Spain",107,19.06,3,0,0,1,0,0,0,0,0,28.59,0,107,0.0,Madrid,Madrid
+2025-04-05,"Calle de Maqueda, 100, Madrid, Spain",111,21.35,3,0,0,0,0,0,0,0,0,19.22,0,111,0.0,Madrid,Madrid
+2025-04-19,"Calle de Maqueda, 100, Madrid, Spain",107,19.77,3,0,0,1,0,0,0,0,0,29.66,0,107,0.0,Madrid,Madrid
+2025-05-03,"Calle de Maqueda, 100, Madrid, Spain",129,19.67,5,0,0,0,0,0,0,0,0,29.51,0,129,0.0,Madrid,Madrid
+2025-01-25,"Calle de Maqueda, 100, Madrid, Spain",161,20.18,6,1,0,2,0,0,0,0,0,60.54,0,161,0.0,Madrid,Madrid
+2025-02-08,"Calle de Maqueda, 100, Madrid, Spain",166,22.28,6,1,0,1,1,0,0,1,0,20.05,2,168,1.1904761904761905,Madrid,Madrid
+2025-02-22,"Calle de Maqueda, 100, Madrid, Spain",125,22.45,6,0,0,0,0,0,0,0,0,67.35,0,125,0.0,Madrid,Madrid
+2025-03-29,"Calle de Maqueda, 100, Madrid, Spain",111,21.21,6,0,0,1,0,0,0,0,0,19.09,0,111,0.0,Madrid,Madrid
+2025-02-15,"Calle de Maqueda, 100, Madrid, Spain",116,19.22,7,0,0,1,0,0,0,0,0,67.27,0,116,0.0,Madrid,Madrid
+2025-01-18,"Calle de Maqueda, 100, Madrid, Spain",189,20.2,8,0,0,1,0,0,0,0,0,48.48,0,189,0.0,Madrid,Madrid
+2025-02-01,"Calle de Maqueda, 100, Madrid, Spain",178,19.52,8,0,2,0,0,0,0,0,0,46.85,0,178,0.0,Madrid,Madrid
+2020-12-28,"Calle de Maqueda, 100, Madrid, Spain",175,22.93,9,0,0,4,0,0,0,0,0,30.96,0,175,0.0,Madrid,Madrid
+2025-05-17,"Calle de Maqueda, 100, Madrid, Spain",98,20.41,10,0,0,0,0,0,0,0,0,163.28,0,98,0.0,Madrid,Madrid
+2025-04-12,"Calle de Maqueda, 100, Madrid, Spain",107,20.0,12,1,2,0,0,0,0,0,0,72.0,0,107,0.0,Madrid,Madrid
+2025-01-04,"Calle de Maqueda, 100, Madrid, Spain",152,22.37,14,0,1,4,0,0,0,0,0,46.98,0,152,0.0,Madrid,Madrid
+2025-03-01,"Calle de Maqueda, 100, Madrid, Spain",127,20.6,14,0,0,1,0,0,0,0,0,86.52,0,127,0.0,Madrid,Madrid
+2025-04-26,"Calle de Maqueda, 100, Madrid, Spain",118,20.43,15,0,0,0,0,0,0,0,0,45.97,0,118,0.0,Madrid,Madrid
+2025-05-31,"Calle de Maqueda, 100, Madrid, Spain",115,19.22,20,0,0,1,0,0,0,0,0,192.2,0,115,0.0,Madrid,Madrid
+2025-05-24,"Calle de Maqueda, 100, Madrid, Spain",112,19.38,27,0,0,0,0,1,0,0,0,78.49,1,113,0.8849557522123894,Madrid,Madrid
+2025-05-10,"Calle de Maqueda, 100, Madrid, Spain",125,19.4,30,0,0,1,0,0,0,0,0,465.6,0,125,0.0,Madrid,Madrid
+2025-01-11,"Calle de San Bernardo, 80, Madrid, Spain",37,17.0,1,0,0,0,0,0,0,0,0,8.5,0,37,0.0,Madrid,Madrid
+2025-02-08,"Calle de San Bernardo, 80, Madrid, Spain",85,18.6,1,0,1,0,0,0,0,0,0,9.3,0,85,0.0,Madrid,Madrid
+2025-02-15,"Calle de San Bernardo, 80, Madrid, Spain",49,19.17,1,1,0,3,0,0,0,0,0,5.75,0,49,0.0,Madrid,Madrid
+2025-03-01,"Calle de San Bernardo, 80, Madrid, Spain",55,16.61,1,0,0,0,1,0,0,0,0,2.49,1,56,1.7857142857142856,Madrid,Madrid
+2025-03-15,"Calle de San Bernardo, 80, Madrid, Spain",57,18.05,1,1,0,0,0,0,0,0,0,5.42,0,57,0.0,Madrid,Madrid
+2025-03-22,"Calle de San Bernardo, 80, Madrid, Spain",42,14.61,1,0,0,0,0,0,0,0,0,4.38,0,42,0.0,Madrid,Madrid
+2025-05-10,"Calle de San Bernardo, 80, Madrid, Spain",51,18.44,1,0,0,0,0,0,0,0,0,2.77,0,51,0.0,Madrid,Madrid
+2025-05-17,"Calle de San Bernardo, 80, Madrid, Spain",42,16.74,1,0,0,0,0,0,0,0,0,8.37,0,42,0.0,Madrid,Madrid
+2025-05-24,"Calle de San Bernardo, 80, Madrid, Spain",32,16.88,1,0,0,1,0,0,0,1,0,2.53,1,33,3.0303030303030303,Madrid,Madrid
+2025-01-04,"Calle de San Bernardo, 80, Madrid, Spain",52,15.83,2,0,0,0,0,0,0,0,0,4.75,0,52,0.0,Madrid,Madrid
+2025-01-18,"Calle de San Bernardo, 80, Madrid, Spain",93,17.6,2,0,0,2,0,0,1,0,0,17.6,1,94,1.0638297872340425,Madrid,Madrid
+2025-04-05,"Calle de San Bernardo, 80, Madrid, Spain",44,19.41,2,0,0,0,0,0,0,0,0,5.82,0,44,0.0,Madrid,Madrid
+2025-02-22,"Calle de San Bernardo, 80, Madrid, Spain",54,17.2,0,0,0,0,0,0,0,0,0,0.0,0,54,0.0,Madrid,Madrid
+2025-04-19,"Calle de San Bernardo, 80, Madrid, Spain",53,16.62,2,0,0,0,1,1,0,0,0,16.62,2,55,3.6363636363636362,Madrid,Madrid
+2025-04-26,"Calle de San Bernardo, 80, Madrid, Spain",42,18.06,2,0,0,0,0,0,0,0,0,10.84,0,42,0.0,Madrid,Madrid
+2025-03-08,"Calle de San Bernardo, 80, Madrid, Spain",51,18.03,0,0,0,0,0,0,0,0,0,0.0,0,51,0.0,Madrid,Madrid
+2020-12-28,"Calle de San Bernardo, 80, Madrid, Spain",83,20.61,3,0,0,3,1,0,0,0,0,30.92,1,84,1.1904761904761905,Madrid,Madrid
+2025-01-25,"Calle de San Bernardo, 80, Madrid, Spain",90,17.91,3,0,0,0,1,0,0,0,0,8.06,1,91,1.098901098901099,Madrid,Madrid
+2025-03-29,"Calle de San Bernardo, 80, Madrid, Spain",56,20.47,0,0,0,0,0,0,0,0,0,0.0,0,56,0.0,Madrid,Madrid
+2025-05-03,"Calle de San Bernardo, 80, Madrid, Spain",68,17.02,3,0,2,0,0,0,0,0,0,7.66,0,68,0.0,Madrid,Madrid
+2025-04-12,"Calle de San Bernardo, 80, Madrid, Spain",39,16.44,0,0,0,0,0,0,0,0,0,0.0,0,39,0.0,Madrid,Madrid
+2025-02-01,"Calle de San Bernardo, 80, Madrid, Spain",92,16.99,7,0,0,1,0,0,1,0,0,35.68,1,93,1.0752688172043012,Madrid,Madrid
+2025-02-08,"Calle de Sta Engracia, 100, 28003 Madrid, España",123,17.5,1,0,0,1,0,0,0,0,0,2.63,0,123,0.0,Madrid,Madrid
+2025-01-04,"Calle de Sta Engracia, 100, 28003 Madrid, España",104,20.15,0,0,0,1,0,0,0,0,0,0.0,0,104,0.0,Madrid,Madrid
+2025-01-11,"Calle de Sta Engracia, 100, 28003 Madrid, España",65,21.12,0,0,0,0,0,0,0,0,0,0.0,0,65,0.0,Madrid,Madrid
+2025-03-22,"Calle de Sta Engracia, 100, 28003 Madrid, España",114,18.1,1,0,0,1,0,0,0,0,0,9.05,0,114,0.0,Madrid,Madrid
+2025-04-19,"Calle de Sta Engracia, 100, 28003 Madrid, España",98,16.71,1,0,0,0,0,0,0,0,0,8.36,0,98,0.0,Madrid,Madrid
+2025-04-26,"Calle de Sta Engracia, 100, 28003 Madrid, España",123,16.16,1,0,1,0,0,0,0,0,1,2.42,1,124,0.8064516129032258,Madrid,Madrid
+2025-05-03,"Calle de Sta Engracia, 100, 28003 Madrid, España",183,16.58,1,0,0,0,1,0,0,0,0,2.49,1,184,0.5434782608695652,Madrid,Madrid
+2020-12-28,"Calle de Sta Engracia, 100, 28003 Madrid, España",106,18.05,2,1,0,1,0,0,0,0,0,18.05,0,106,0.0,Madrid,Madrid
+2025-01-18,"Calle de Sta Engracia, 100, 28003 Madrid, España",220,17.23,2,0,0,1,1,0,0,0,1,10.34,2,222,0.9009009009009009,Madrid,Madrid
+2025-04-12,"Calle de Sta Engracia, 100, 28003 Madrid, España",110,16.42,2,0,0,0,0,0,0,0,0,4.93,0,110,0.0,Madrid,Madrid
+2025-05-10,"Calle de Sta Engracia, 100, 28003 Madrid, España",209,17.07,2,0,0,1,1,0,0,0,0,17.07,1,210,0.4761904761904762,Madrid,Madrid
+2025-05-24,"Calle de Sta Engracia, 100, 28003 Madrid, España",169,16.35,2,0,0,0,1,0,0,0,0,16.35,1,170,0.5882352941176471,Madrid,Madrid
+2025-03-15,"Calle de Sta Engracia, 100, 28003 Madrid, España",128,17.72,0,0,0,0,1,0,0,0,0,0.0,1,129,0.7751937984496124,Madrid,Madrid
+2025-01-25,"Calle de Sta Engracia, 100, 28003 Madrid, España",190,16.55,3,0,0,0,0,0,0,0,1,14.9,1,191,0.5235602094240838,Madrid,Madrid
+2025-02-01,"Calle de Sta Engracia, 100, 28003 Madrid, España",170,16.91,3,0,0,0,0,0,0,0,0,7.61,0,170,0.0,Madrid,Madrid
+2025-04-05,"Calle de Sta Engracia, 100, 28003 Madrid, España",103,18.04,0,0,0,0,0,0,0,0,0,0.0,0,103,0.0,Madrid,Madrid
+2025-02-15,"Calle de Sta Engracia, 100, 28003 Madrid, España",138,16.93,4,0,0,0,0,0,0,0,0,20.32,0,138,0.0,Madrid,Madrid
+2025-02-22,"Calle de Sta Engracia, 100, 28003 Madrid, España",190,16.07,4,0,0,0,0,0,0,0,0,9.64,0,190,0.0,Madrid,Madrid
+2025-03-01,"Calle de Sta Engracia, 100, 28003 Madrid, España",242,16.69,5,1,0,1,2,0,0,0,0,41.73,2,244,0.819672131147541,Madrid,Madrid
+2025-03-29,"Calle de Sta Engracia, 100, 28003 Madrid, España",121,17.55,5,0,0,3,0,0,0,0,0,26.33,0,121,0.0,Madrid,Madrid
+2025-05-17,"Calle de Sta Engracia, 100, 28003 Madrid, España",160,17.25,5,0,0,0,0,0,0,0,0,43.13,0,160,0.0,Madrid,Madrid
+2025-03-08,"Calle de Sta Engracia, 100, 28003 Madrid, España",184,16.55,6,1,0,1,0,0,0,0,0,29.79,0,184,0.0,Madrid,Madrid
+2025-01-04,"Calle de Valencia, 18, 28012 Madrid, España",77,17.75,1,0,0,0,0,0,0,0,0,8.88,0,77,0.0,Madrid,Madrid
+2025-03-01,"Calle de Valencia, 18, 28012 Madrid, España",116,17.81,1,0,0,0,0,0,0,0,0,8.91,0,116,0.0,Madrid,Madrid
+2025-01-11,"Calle de Valencia, 18, 28012 Madrid, España",30,19.73,0,0,0,0,0,0,0,0,0,0.0,0,30,0.0,Madrid,Madrid
+2025-01-18,"Calle de Valencia, 18, 28012 Madrid, España",119,16.96,2,0,0,1,0,0,0,0,0,10.18,0,119,0.0,Madrid,Madrid
+2025-03-08,"Calle de Valencia, 18, 28012 Madrid, España",114,16.43,2,1,0,1,0,0,0,0,0,9.86,0,114,0.0,Madrid,Madrid
+2025-04-19,"Calle de Valencia, 18, 28012 Madrid, España",70,18.6,2,1,0,1,1,0,0,0,0,11.16,1,71,1.4084507042253522,Madrid,Madrid
+2025-05-17,"Calle de Valencia, 18, 28012 Madrid, España",93,17.77,2,0,0,0,0,0,0,0,0,10.66,0,93,0.0,Madrid,Madrid
+2025-05-24,"Calle de Valencia, 18, 28012 Madrid, España",65,17.0,2,0,0,1,0,0,0,0,0,10.2,0,65,0.0,Madrid,Madrid
+2025-02-01,"Calle de Valencia, 18, 28012 Madrid, España",135,16.45,3,0,0,0,0,0,0,0,0,24.68,0,135,0.0,Madrid,Madrid
+2025-02-22,"Calle de Valencia, 18, 28012 Madrid, España",86,17.25,3,0,0,1,0,0,0,0,0,7.76,0,86,0.0,Madrid,Madrid
+2025-03-22,"Calle de Valencia, 18, 28012 Madrid, España",80,16.5,3,0,0,0,0,0,0,0,0,24.75,0,80,0.0,Madrid,Madrid
+2025-04-12,"Calle de Valencia, 18, 28012 Madrid, España",104,17.37,3,0,0,0,0,0,0,0,0,26.06,0,104,0.0,Madrid,Madrid
+2025-04-26,"Calle de Valencia, 18, 28012 Madrid, España",74,17.71,3,0,1,1,0,0,0,0,0,7.97,0,74,0.0,Madrid,Madrid
+2025-04-05,"Calle de Valencia, 18, 28012 Madrid, España",101,17.42,0,1,0,1,0,0,0,0,0,0.0,0,101,0.0,Madrid,Madrid
+2025-01-25,"Calle de Valencia, 18, 28012 Madrid, España",105,16.7,4,0,0,0,0,0,0,0,0,33.4,0,105,0.0,Madrid,Madrid
+2025-02-08,"Calle de Valencia, 18, 28012 Madrid, España",102,17.48,4,0,0,0,0,0,0,0,0,10.49,0,102,0.0,Madrid,Madrid
+2025-03-15,"Calle de Valencia, 18, 28012 Madrid, España",91,17.65,4,0,0,0,0,0,0,0,0,35.3,0,91,0.0,Madrid,Madrid
+2025-03-29,"Calle de Valencia, 18, 28012 Madrid, España",118,18.54,4,0,0,1,1,0,0,0,0,37.08,1,119,0.8403361344537815,Madrid,Madrid
+2025-05-10,"Calle de Valencia, 18, 28012 Madrid, España",125,16.16,4,0,0,0,0,0,0,0,0,32.32,0,125,0.0,Madrid,Madrid
+2025-02-15,"Calle de Valencia, 18, 28012 Madrid, España",81,15.63,5,0,0,1,0,0,0,0,0,39.08,0,81,0.0,Madrid,Madrid
+2025-05-03,"Calle de Valencia, 18, 28012 Madrid, España",105,16.23,0,0,0,0,0,0,0,0,1,0.0,1,106,0.9433962264150944,Madrid,Madrid
+2020-12-28,"Calle de Valencia, 18, 28012 Madrid, España",59,19.79,6,0,0,0,0,0,0,0,0,35.62,0,59,0.0,Madrid,Madrid
+2025-01-04,"Calle Edgar Neville, 2, 28223 Pozuelo de Alarcón, Madrid, España",23,29.42,1,0,0,0,0,0,0,0,0,14.71,0,23,0.0,Madrid,Madrid
+2020-12-28,"Calle Edgar Neville, 2, 28223 Pozuelo de Alarcón, Madrid, España",40,26.82,0,0,0,0,1,0,0,0,0,0.0,1,41,2.4390243902439024,Madrid,Madrid
+2025-01-18,"Calle Edgar Neville, 2, 28223 Pozuelo de Alarcón, Madrid, España",60,20.0,1,0,0,0,0,0,0,0,0,6.0,0,60,0.0,Madrid,Madrid
+2025-02-08,"Calle Edgar Neville, 2, 28223 Pozuelo de Alarcón, Madrid, España",38,24.63,1,0,0,0,0,0,0,0,0,7.39,0,38,0.0,Madrid,Madrid
+2025-02-15,"Calle Edgar Neville, 2, 28223 Pozuelo de Alarcón, Madrid, España",40,23.51,1,0,0,0,0,0,0,0,0,11.76,0,40,0.0,Madrid,Madrid
+2025-01-11,"Calle Edgar Neville, 2, 28223 Pozuelo de Alarcón, Madrid, España",7,19.28,0,0,0,0,0,0,0,0,0,0.0,0,7,0.0,Madrid,Madrid
+2025-02-22,"Calle Edgar Neville, 2, 28223 Pozuelo de Alarcón, Madrid, España",36,20.44,1,0,0,0,0,0,0,0,0,10.22,0,36,0.0,Madrid,Madrid
+2025-03-15,"Calle Edgar Neville, 2, 28223 Pozuelo de Alarcón, Madrid, España",34,24.63,1,0,0,0,0,0,0,0,0,12.32,0,34,0.0,Madrid,Madrid
+2025-04-12,"Calle Edgar Neville, 2, 28223 Pozuelo de Alarcón, Madrid, España",37,20.29,1,0,0,0,0,0,0,0,0,3.04,0,37,0.0,Madrid,Madrid
+2025-05-03,"Calle Edgar Neville, 2, 28223 Pozuelo de Alarcón, Madrid, España",34,20.74,1,0,0,0,0,0,0,0,0,10.37,0,34,0.0,Madrid,Madrid
+2025-02-01,"Calle Edgar Neville, 2, 28223 Pozuelo de Alarcón, Madrid, España",46,23.09,0,0,0,0,0,0,0,0,0,0.0,0,46,0.0,Madrid,Madrid
+2025-05-24,"Calle Edgar Neville, 2, 28223 Pozuelo de Alarcón, Madrid, España",41,25.61,1,0,0,0,0,0,0,0,0,7.68,0,41,0.0,Madrid,Madrid
+2025-01-25,"Calle Edgar Neville, 2, 28223 Pozuelo de Alarcón, Madrid, España",38,20.34,2,0,0,0,0,0,0,0,0,12.2,0,38,0.0,Madrid,Madrid
+2025-03-08,"Calle Edgar Neville, 2, 28223 Pozuelo de Alarcón, Madrid, España",37,19.47,0,0,0,0,0,0,0,0,0,0.0,0,37,0.0,Madrid,Madrid
+2025-03-01,"Calle Edgar Neville, 2, 28223 Pozuelo de Alarcón, Madrid, España",36,20.9,3,0,0,0,0,0,0,0,0,9.41,0,36,0.0,Madrid,Madrid
+2025-03-22,"Calle Edgar Neville, 2, 28223 Pozuelo de Alarcón, Madrid, España",37,24.44,0,0,0,0,0,0,0,0,0,0.0,0,37,0.0,Madrid,Madrid
+2025-03-29,"Calle Edgar Neville, 2, 28223 Pozuelo de Alarcón, Madrid, España",46,22.86,0,0,0,0,0,0,0,0,0,0.0,0,46,0.0,Madrid,Madrid
+2025-04-05,"Calle Edgar Neville, 2, 28223 Pozuelo de Alarcón, Madrid, España",21,23.41,0,0,0,0,0,0,0,0,0,0.0,0,21,0.0,Madrid,Madrid
+2025-04-19,"Calle Edgar Neville, 2, 28223 Pozuelo de Alarcón, Madrid, España",30,21.81,0,0,0,0,0,0,0,0,0,0.0,0,30,0.0,Madrid,Madrid
+2025-04-26,"Calle Edgar Neville, 2, 28223 Pozuelo de Alarcón, Madrid, España",35,22.75,0,0,0,0,0,0,0,0,0,0.0,0,35,0.0,Madrid,Madrid
+2025-05-10,"Calle Edgar Neville, 2, 28223 Pozuelo de Alarcón, Madrid, España",36,21.55,0,0,0,0,1,0,0,0,0,0.0,1,37,2.7027027027027026,Madrid,Madrid
+2025-05-17,"Calle Edgar Neville, 2, 28223 Pozuelo de Alarcón, Madrid, España",36,18.22,0,0,0,0,0,0,0,0,0,0.0,0,36,0.0,Madrid,Madrid
+2025-05-31,"Calle Edgar Neville, 2, 28223 Pozuelo de Alarcón, Madrid, España",43,16.93,0,0,0,0,0,0,0,0,0,0.0,0,43,0.0,Madrid,Madrid
+2025-01-04,"Calle Gran Vía, 200, Madrid, Spain",67,16.67,1,0,0,0,0,0,0,0,0,5.0,0,67,0.0,Madrid,Madrid
+2025-05-03,"Calle Gran Vía, 200, Madrid, Spain",89,18.3,1,0,0,1,0,0,0,0,0,9.15,0,89,0.0,Madrid,Madrid
+2025-05-17,"Calle Gran Vía, 200, Madrid, Spain",60,18.48,1,0,0,0,0,0,0,0,0,2.77,0,60,0.0,Madrid,Madrid
+2025-05-31,"Calle Gran Vía, 200, Madrid, Spain",66,16.38,1,0,0,1,0,0,0,0,0,4.91,0,66,0.0,Madrid,Madrid
+2025-02-15,"Calle Gran Vía, 200, Madrid, Spain",89,16.44,2,0,0,2,0,0,0,0,0,4.93,0,89,0.0,Madrid,Madrid
+2025-03-08,"Calle Gran Vía, 200, Madrid, Spain",57,19.03,2,0,0,1,0,0,0,0,0,5.71,0,57,0.0,Madrid,Madrid
+2025-03-15,"Calle Gran Vía, 200, Madrid, Spain",95,17.71,2,0,0,0,0,0,0,0,0,10.63,0,95,0.0,Madrid,Madrid
+2025-04-12,"Calle Gran Vía, 200, Madrid, Spain",50,16.88,2,0,0,1,0,0,0,0,0,16.88,0,50,0.0,Madrid,Madrid
+2025-03-01,"Calle Gran Vía, 200, Madrid, Spain",64,17.91,0,0,0,1,0,0,0,0,0,0.0,0,64,0.0,Madrid,Madrid
+2020-12-28,"Calle Gran Vía, 200, Madrid, Spain",110,19.82,3,1,0,0,1,0,0,0,0,29.73,1,111,0.9009009009009009,Madrid,Madrid
+2025-01-11,"Calle Gran Vía, 200, Madrid, Spain",43,19.77,3,0,0,0,0,0,0,0,0,17.79,0,43,0.0,Madrid,Madrid
+2025-01-25,"Calle Gran Vía, 200, Madrid, Spain",119,17.97,3,0,0,0,1,0,0,0,0,26.96,1,120,0.8333333333333334,Madrid,Madrid
+2025-02-08,"Calle Gran Vía, 200, Madrid, Spain",98,16.75,3,0,1,2,0,0,0,0,0,7.54,0,98,0.0,Madrid,Madrid
+2025-03-22,"Calle Gran Vía, 200, Madrid, Spain",59,16.64,0,0,0,1,0,0,0,0,0,0.0,0,59,0.0,Madrid,Madrid
+2025-03-29,"Calle Gran Vía, 200, Madrid, Spain",64,15.78,0,0,0,0,0,0,0,0,0,0.0,0,64,0.0,Madrid,Madrid
+2025-04-19,"Calle Gran Vía, 200, Madrid, Spain",78,20.11,3,0,0,0,0,0,0,0,0,18.1,0,78,0.0,Madrid,Madrid
+2025-04-26,"Calle Gran Vía, 200, Madrid, Spain",66,15.71,3,0,0,0,0,0,0,0,0,23.57,0,66,0.0,Madrid,Madrid
+2025-04-05,"Calle Gran Vía, 200, Madrid, Spain",55,17.22,0,0,0,0,0,0,0,0,0,0.0,0,55,0.0,Madrid,Madrid
+2025-05-10,"Calle Gran Vía, 200, Madrid, Spain",61,18.53,4,0,0,1,0,0,0,0,0,11.12,0,61,0.0,Madrid,Madrid
+2025-02-22,"Calle Gran Vía, 200, Madrid, Spain",66,17.02,5,0,0,0,0,0,0,0,0,25.53,0,66,0.0,Madrid,Madrid
+2025-01-18,"Calle Gran Vía, 200, Madrid, Spain",148,16.74,8,0,1,2,0,0,0,0,0,66.96,0,148,0.0,Madrid,Madrid
+2025-02-01,"Calle Gran Vía, 200, Madrid, Spain",167,17.87,8,0,0,1,0,0,0,0,0,21.44,0,167,0.0,Madrid,Madrid
+2025-05-24,"Calle Gran Vía, 200, Madrid, Spain",60,17.17,0,0,0,0,1,0,0,0,0,0.0,1,61,1.639344262295082,Madrid,Madrid
+2025-01-04,"Calle Salvador de Madariaga, San Sebastián de los Reyes, Spain",12,28.1,1,0,0,0,0,0,0,2,0,8.43,2,14,14.285714285714285,San Sebastián de los Reyes,Spain
+2020-12-28,"Calle Salvador de Madariaga, San Sebastián de los Reyes, Spain",12,24.62,0,0,0,0,0,0,0,0,0,0.0,0,12,0.0,San Sebastián de los Reyes,Spain
+2025-02-01,"Calle Salvador de Madariaga, San Sebastián de los Reyes, Spain",31,17.01,1,0,0,0,0,0,0,0,0,8.51,0,31,0.0,San Sebastián de los Reyes,Spain
+2025-02-08,"Calle Salvador de Madariaga, San Sebastián de los Reyes, Spain",13,20.1,1,0,0,0,0,0,0,0,0,3.02,0,13,0.0,San Sebastián de los Reyes,Spain
+2025-02-22,"Calle Salvador de Madariaga, San Sebastián de los Reyes, Spain",20,21.98,1,0,0,0,0,0,0,0,0,10.99,0,20,0.0,San Sebastián de los Reyes,Spain
+2025-01-11,"Calle Salvador de Madariaga, San Sebastián de los Reyes, Spain",4,25.11,0,0,0,0,0,0,0,0,0,0.0,0,4,0.0,San Sebastián de los Reyes,Spain
+2025-03-15,"Calle Salvador de Madariaga, San Sebastián de los Reyes, Spain",13,27.56,1,0,0,0,0,0,0,0,0,8.27,0,13,0.0,San Sebastián de los Reyes,Spain
+2025-01-18,"Calle Salvador de Madariaga, San Sebastián de los Reyes, Spain",31,21.55,0,0,0,0,0,0,0,0,1,0.0,1,32,3.125,San Sebastián de los Reyes,Spain
+2025-04-05,"Calle Salvador de Madariaga, San Sebastián de los Reyes, Spain",26,20.25,1,0,0,0,0,0,0,0,0,10.13,0,26,0.0,San Sebastián de los Reyes,Spain
+2025-04-12,"Calle Salvador de Madariaga, San Sebastián de los Reyes, Spain",21,21.23,1,0,0,0,0,0,0,0,0,3.18,0,21,0.0,San Sebastián de los Reyes,Spain
+2025-04-19,"Calle Salvador de Madariaga, San Sebastián de los Reyes, Spain",17,21.06,1,0,0,0,1,0,0,0,0,6.32,1,18,5.555555555555555,San Sebastián de los Reyes,Spain
+2025-01-25,"Calle Salvador de Madariaga, San Sebastián de los Reyes, Spain",22,18.15,0,0,0,1,0,0,0,0,0,0.0,0,22,0.0,San Sebastián de los Reyes,Spain
+2025-05-24,"Calle Salvador de Madariaga, San Sebastián de los Reyes, Spain",13,22.08,1,0,0,0,0,0,0,0,0,6.62,0,13,0.0,San Sebastián de los Reyes,Spain
+2025-05-31,"Calle Salvador de Madariaga, San Sebastián de los Reyes, Spain",15,22.5,1,0,0,0,0,0,0,0,0,3.38,0,15,0.0,San Sebastián de los Reyes,Spain
+2025-02-15,"Calle Salvador de Madariaga, San Sebastián de los Reyes, Spain",19,23.31,0,0,0,0,0,0,0,0,0,0.0,0,19,0.0,San Sebastián de los Reyes,Spain
+2025-03-22,"Calle Salvador de Madariaga, San Sebastián de los Reyes, Spain",19,22.47,2,0,0,0,0,0,0,0,0,6.74,0,19,0.0,San Sebastián de los Reyes,Spain
+2025-03-29,"Calle Salvador de Madariaga, San Sebastián de los Reyes, Spain",15,24.17,2,0,0,0,0,0,0,0,0,7.25,0,15,0.0,San Sebastián de los Reyes,Spain
+2025-03-01,"Calle Salvador de Madariaga, San Sebastián de los Reyes, Spain",19,20.15,0,1,0,0,0,0,0,0,0,0.0,0,19,0.0,San Sebastián de los Reyes,Spain
+2025-05-03,"Calle Salvador de Madariaga, San Sebastián de los Reyes, Spain",21,23.44,2,0,0,0,0,0,0,0,0,14.06,0,21,0.0,San Sebastián de los Reyes,Spain
+2025-05-10,"Calle Salvador de Madariaga, San Sebastián de los Reyes, Spain",17,20.87,2,0,0,0,0,0,0,0,0,6.26,0,17,0.0,San Sebastián de los Reyes,Spain
+2025-03-08,"Calle Salvador de Madariaga, San Sebastián de los Reyes, Spain",17,19.66,0,0,0,0,0,0,0,0,0,0.0,0,17,0.0,San Sebastián de los Reyes,Spain
+2025-04-26,"Calle Salvador de Madariaga, San Sebastián de los Reyes, Spain",19,30.86,0,0,0,0,0,0,0,0,0,0.0,0,19,0.0,San Sebastián de los Reyes,Spain
+2025-05-17,"Calle Salvador de Madariaga, San Sebastián de los Reyes, Spain",8,26.83,0,0,0,0,0,0,0,0,0,0.0,0,8,0.0,San Sebastián de los Reyes,Spain
+2025-01-11,"Calle Serrano Jover, 5, 28015 Madrid, España",12,14.41,0,0,0,0,0,0,0,0,1,0.0,1,13,7.6923076923076925,Madrid,Madrid
+2025-04-26,"Calle Serrano Jover, 5, 28015 Madrid, España",30,17.56,1,0,0,0,0,0,0,0,0,5.27,0,30,0.0,Madrid,Madrid
+2025-05-17,"Calle Serrano Jover, 5, 28015 Madrid, España",41,15.79,1,0,1,0,0,0,0,1,0,2.37,1,42,2.380952380952381,Madrid,Madrid
+2025-05-24,"Calle Serrano Jover, 5, 28015 Madrid, España",53,15.64,1,0,0,0,1,0,0,0,0,7.82,1,54,1.8518518518518516,Madrid,Madrid
+2020-12-28,"Calle Serrano Jover, 5, 28015 Madrid, España",22,19.37,2,0,0,0,0,0,0,1,0,11.62,1,23,4.3478260869565215,Madrid,Madrid
+2025-02-08,"Calle Serrano Jover, 5, 28015 Madrid, España",62,16.17,2,0,0,1,2,0,0,0,0,9.7,2,64,3.125,Madrid,Madrid
+2025-03-08,"Calle Serrano Jover, 5, 28015 Madrid, España",37,19.36,2,0,0,0,0,0,0,0,0,19.36,0,37,0.0,Madrid,Madrid
+2025-03-22,"Calle Serrano Jover, 5, 28015 Madrid, España",55,14.48,2,0,0,0,0,0,0,0,0,14.48,0,55,0.0,Madrid,Madrid
+2025-03-29,"Calle Serrano Jover, 5, 28015 Madrid, España",36,16.01,2,0,0,0,0,0,0,0,0,16.01,0,36,0.0,Madrid,Madrid
+2025-05-03,"Calle Serrano Jover, 5, 28015 Madrid, España",49,17.83,2,0,0,0,0,0,0,0,0,5.35,0,49,0.0,Madrid,Madrid
+2025-02-15,"Calle Serrano Jover, 5, 28015 Madrid, España",59,16.41,3,0,0,0,0,0,0,0,0,14.77,0,59,0.0,Madrid,Madrid
+2025-03-01,"Calle Serrano Jover, 5, 28015 Madrid, España",36,17.36,3,0,0,0,0,0,0,0,0,15.62,0,36,0.0,Madrid,Madrid
+2025-01-04,"Calle Serrano Jover, 5, 28015 Madrid, España",53,17.85,4,0,1,0,0,0,0,0,0,10.71,0,53,0.0,Madrid,Madrid
+2025-01-18,"Calle Serrano Jover, 5, 28015 Madrid, España",76,16.48,4,0,1,0,0,2,0,1,0,19.78,3,79,3.79746835443038,Madrid,Madrid
+2025-04-19,"Calle Serrano Jover, 5, 28015 Madrid, España",32,15.98,0,0,0,0,0,0,0,0,0,0.0,0,32,0.0,Madrid,Madrid
+2025-04-12,"Calle Serrano Jover, 5, 28015 Madrid, España",42,16.18,4,0,0,2,0,0,0,0,0,9.71,0,42,0.0,Madrid,Madrid
+2025-05-10,"Calle Serrano Jover, 5, 28015 Madrid, España",57,17.59,4,0,0,0,0,0,0,0,0,21.11,0,57,0.0,Madrid,Madrid
+2025-01-25,"Calle Serrano Jover, 5, 28015 Madrid, España",77,16.26,5,2,0,1,0,0,0,0,0,24.39,0,77,0.0,Madrid,Madrid
+2025-02-22,"Calle Serrano Jover, 5, 28015 Madrid, España",46,18.3,5,0,0,0,0,0,0,0,0,13.73,0,46,0.0,Madrid,Madrid
+2025-03-15,"Calle Serrano Jover, 5, 28015 Madrid, España",50,15.76,5,0,0,0,0,0,1,0,0,11.82,1,51,1.9607843137254901,Madrid,Madrid
+2025-04-05,"Calle Serrano Jover, 5, 28015 Madrid, España",40,19.26,5,0,0,2,0,0,0,0,0,14.45,0,40,0.0,Madrid,Madrid
+2025-05-31,"Calle Serrano Jover, 5, 28015 Madrid, España",34,19.79,5,0,0,1,0,0,0,2,2,29.69,4,38,10.526315789473683,Madrid,Madrid
+2025-02-01,"Calle Serrano Jover, 5, 28015 Madrid, España",77,16.16,9,0,0,1,0,0,0,0,0,21.82,0,77,0.0,Madrid,Madrid
+2025-01-11,"Parque Comercial Megapark Plaza Norte 2, Plaza del Comercio, San Sebastián de los Reyes, Madrid, Spain",5,19.13,1,0,0,1,0,0,0,0,0,2.87,0,5,0.0,Madrid,Madrid
+2025-03-01,"Parque Comercial Megapark Plaza Norte 2, Plaza del Comercio, San Sebastián de los Reyes, Madrid, Spain",40,18.78,1,0,0,0,0,0,0,0,0,2.82,0,40,0.0,Madrid,Madrid
+2025-04-26,"Parque Comercial Megapark Plaza Norte 2, Plaza del Comercio, San Sebastián de los Reyes, Madrid, Spain",51,22.67,1,0,0,0,0,0,0,0,0,11.34,0,51,0.0,Madrid,Madrid
+2025-05-24,"Parque Comercial Megapark Plaza Norte 2, Plaza del Comercio, San Sebastián de los Reyes, Madrid, Spain",40,19.0,1,0,0,0,0,0,0,0,0,5.7,0,40,0.0,Madrid,Madrid
+2025-01-25,"Parque Comercial Megapark Plaza Norte 2, Plaza del Comercio, San Sebastián de los Reyes, Madrid, Spain",36,18.62,2,0,0,0,0,0,0,0,0,5.59,0,36,0.0,Madrid,Madrid
+2025-02-22,"Parque Comercial Megapark Plaza Norte 2, Plaza del Comercio, San Sebastián de los Reyes, Madrid, Spain",34,20.46,2,0,0,1,0,0,0,0,0,6.14,0,34,0.0,Madrid,Madrid
+2025-03-22,"Parque Comercial Megapark Plaza Norte 2, Plaza del Comercio, San Sebastián de los Reyes, Madrid, Spain",36,17.84,2,0,0,0,0,0,0,0,0,5.35,0,36,0.0,Madrid,Madrid
+2025-04-05,"Parque Comercial Megapark Plaza Norte 2, Plaza del Comercio, San Sebastián de los Reyes, Madrid, Spain",50,19.78,2,0,0,0,0,0,0,0,0,5.93,0,50,0.0,Madrid,Madrid
+2025-01-04,"Parque Comercial Megapark Plaza Norte 2, Plaza del Comercio, San Sebastián de los Reyes, Madrid, Spain",58,22.33,3,0,0,0,0,0,0,0,0,33.5,0,58,0.0,Madrid,Madrid
+2025-02-01,"Parque Comercial Megapark Plaza Norte 2, Plaza del Comercio, San Sebastián de los Reyes, Madrid, Spain",44,18.93,3,0,0,0,0,0,0,0,0,17.04,0,44,0.0,Madrid,Madrid
+2025-02-08,"Parque Comercial Megapark Plaza Norte 2, Plaza del Comercio, San Sebastián de los Reyes, Madrid, Spain",52,19.88,3,0,0,0,0,0,0,0,0,29.82,0,52,0.0,Madrid,Madrid
+2025-02-15,"Parque Comercial Megapark Plaza Norte 2, Plaza del Comercio, San Sebastián de los Reyes, Madrid, Spain",42,17.29,3,1,0,1,0,0,0,0,1,25.94,1,43,2.3255813953488373,Madrid,Madrid
+2025-04-12,"Parque Comercial Megapark Plaza Norte 2, Plaza del Comercio, San Sebastián de los Reyes, Madrid, Spain",40,23.26,3,0,0,0,0,0,0,0,0,34.89,0,40,0.0,Madrid,Madrid
+2025-05-10,"Parque Comercial Megapark Plaza Norte 2, Plaza del Comercio, San Sebastián de los Reyes, Madrid, Spain",51,17.37,3,0,0,0,0,0,0,0,0,26.06,0,51,0.0,Madrid,Madrid
+2025-03-08,"Parque Comercial Megapark Plaza Norte 2, Plaza del Comercio, San Sebastián de los Reyes, Madrid, Spain",43,20.07,4,0,0,0,0,0,0,0,0,24.08,0,43,0.0,Madrid,Madrid
+2025-03-15,"Parque Comercial Megapark Plaza Norte 2, Plaza del Comercio, San Sebastián de los Reyes, Madrid, Spain",44,20.25,4,0,0,2,0,0,0,0,0,12.15,0,44,0.0,Madrid,Madrid
+2025-03-29,"Parque Comercial Megapark Plaza Norte 2, Plaza del Comercio, San Sebastián de los Reyes, Madrid, Spain",51,21.94,4,2,0,2,0,0,0,0,0,13.16,0,51,0.0,Madrid,Madrid
+2025-05-03,"Parque Comercial Megapark Plaza Norte 2, Plaza del Comercio, San Sebastián de los Reyes, Madrid, Spain",52,20.49,4,0,0,1,0,0,0,0,0,40.98,0,52,0.0,Madrid,Madrid
+2020-12-28,"Parque Comercial Megapark Plaza Norte 2, Plaza del Comercio, San Sebastián de los Reyes, Madrid, Spain",37,18.15,6,0,0,0,0,0,1,0,0,16.34,1,38,2.631578947368421,Madrid,Madrid
+2025-04-19,"Parque Comercial Megapark Plaza Norte 2, Plaza del Comercio, San Sebastián de los Reyes, Madrid, Spain",41,20.16,6,0,0,1,0,0,0,0,0,36.29,0,41,0.0,Madrid,Madrid
+2025-05-17,"Parque Comercial Megapark Plaza Norte 2, Plaza del Comercio, San Sebastián de los Reyes, Madrid, Spain",52,20.32,0,0,0,1,0,0,0,0,0,0.0,0,52,0.0,Madrid,Madrid
+2025-01-18,"Parque Comercial Megapark Plaza Norte 2, Plaza del Comercio, San Sebastián de los Reyes, Madrid, Spain",64,20.91,13,0,0,1,0,0,0,1,0,40.77,1,65,1.5384615384615385,Madrid,Madrid
+2025-04-26,"Paseo de la Castellana, 200, Madrid, Spain",48,21.91,1,0,0,1,0,0,0,0,0,6.57,0,48,0.0,Madrid,Madrid
+2025-05-10,"Paseo de la Castellana, 200, Madrid, Spain",57,19.2,1,0,0,0,1,0,0,0,0,5.76,1,58,1.7241379310344827,Madrid,Madrid
+2025-05-17,"Paseo de la Castellana, 200, Madrid, Spain",36,18.11,1,0,0,0,0,0,0,0,0,5.43,0,36,0.0,Madrid,Madrid
+2025-01-11,"Paseo de la Castellana, 200, Madrid, Spain",50,20.52,2,0,0,0,0,0,0,0,0,6.16,0,50,0.0,Madrid,Madrid
+2025-03-01,"Paseo de la Castellana, 200, Madrid, Spain",43,15.84,2,0,0,0,0,0,0,0,0,15.84,0,43,0.0,Madrid,Madrid
+2025-02-15,"Paseo de la Castellana, 200, Madrid, Spain",57,17.81,0,0,0,1,0,0,0,0,0,0.0,0,57,0.0,Madrid,Madrid
+2025-03-22,"Paseo de la Castellana, 200, Madrid, Spain",48,18.99,2,0,0,1,0,0,0,0,0,11.39,0,48,0.0,Madrid,Madrid
+2025-02-22,"Paseo de la Castellana, 200, Madrid, Spain",45,17.11,0,0,0,0,0,0,0,0,0,0.0,0,45,0.0,Madrid,Madrid
+2025-04-12,"Paseo de la Castellana, 200, Madrid, Spain",47,19.42,2,0,0,0,0,0,0,0,0,11.65,0,47,0.0,Madrid,Madrid
+2025-04-19,"Paseo de la Castellana, 200, Madrid, Spain",40,16.39,2,0,0,0,0,0,0,0,0,4.92,0,40,0.0,Madrid,Madrid
+2025-05-24,"Paseo de la Castellana, 200, Madrid, Spain",44,15.5,2,0,1,1,0,0,0,0,0,4.65,0,44,0.0,Madrid,Madrid
+2025-05-31,"Paseo de la Castellana, 200, Madrid, Spain",51,16.71,2,0,0,0,0,0,0,0,0,5.01,0,51,0.0,Madrid,Madrid
+2025-03-08,"Paseo de la Castellana, 200, Madrid, Spain",52,18.88,0,0,0,0,0,0,0,0,0,0.0,0,52,0.0,Madrid,Madrid
+2025-01-04,"Paseo de la Castellana, 200, Madrid, Spain",49,21.39,3,0,0,1,0,0,0,0,0,9.63,0,49,0.0,Madrid,Madrid
+2025-03-15,"Paseo de la Castellana, 200, Madrid, Spain",56,16.73,0,0,0,1,0,0,0,0,0,0.0,0,56,0.0,Madrid,Madrid
+2025-01-25,"Paseo de la Castellana, 200, Madrid, Spain",73,18.46,3,0,0,0,0,0,0,0,0,27.69,0,73,0.0,Madrid,Madrid
+2025-03-29,"Paseo de la Castellana, 200, Madrid, Spain",50,19.71,3,0,0,0,1,0,0,0,0,8.87,1,51,1.9607843137254901,Madrid,Madrid
+2025-04-05,"Paseo de la Castellana, 200, Madrid, Spain",38,20.66,0,0,0,0,0,0,0,0,0,0.0,0,38,0.0,Madrid,Madrid
+2025-05-03,"Paseo de la Castellana, 200, Madrid, Spain",52,18.98,3,0,0,0,1,0,0,0,0,28.47,1,53,1.8867924528301887,Madrid,Madrid
+2020-12-28,"Paseo de la Castellana, 200, Madrid, Spain",29,22.23,4,0,0,0,0,0,0,0,0,26.68,0,29,0.0,Madrid,Madrid
+2025-01-18,"Paseo de la Castellana, 200, Madrid, Spain",101,18.89,4,0,0,1,1,0,0,0,0,37.78,1,102,0.9803921568627451,Madrid,Madrid
+2025-02-01,"Paseo de la Castellana, 200, Madrid, Spain",109,16.29,4,0,0,0,0,0,0,0,0,19.55,0,109,0.0,Madrid,Madrid
+2025-02-08,"Paseo de la Castellana, 200, Madrid, Spain",76,18.6,5,0,0,1,1,0,0,0,0,27.9,1,77,1.2987012987012987,Madrid,Madrid
+2020-12-28,"Calle de Alcantara, 14, Madrid, Spain",50,17.98,1,0,0,1,0,0,0,0,0,2.7,0,50,0.0,Madrid,Madrid
+2025-01-04,"Calle de Alcantara, 14, Madrid, Spain",141,20.24,2,1,0,1,0,0,0,0,0,12.14,0,141,0.0,Madrid,Madrid
+2025-03-01,"Calle de Alcantara, 14, Madrid, Spain",83,18.59,2,0,0,0,0,0,0,0,0,11.15,0,83,0.0,Madrid,Madrid
+2025-04-26,"Calle de Alcantara, 14, Madrid, Spain",99,18.48,2,0,0,0,0,0,0,0,0,18.48,0,99,0.0,Madrid,Madrid
+2025-03-08,"Calle de Alcantara, 14, Madrid, Spain",98,18.49,0,0,0,0,0,0,0,0,0,0.0,0,98,0.0,Madrid,Madrid
+2025-03-22,"Calle de Alcantara, 14, Madrid, Spain",99,17.47,3,0,0,1,0,0,0,0,0,7.86,0,99,0.0,Madrid,Madrid
+2025-04-12,"Calle de Alcantara, 14, Madrid, Spain",98,18.15,3,0,0,0,0,0,0,0,0,8.17,0,98,0.0,Madrid,Madrid
+2025-05-24,"Calle de Alcantara, 14, Madrid, Spain",108,19.53,3,0,0,0,0,0,0,1,0,8.79,1,109,0.9174311926605505,Madrid,Madrid
+2025-04-19,"Calle de Alcantara, 14, Madrid, Spain",99,16.69,0,0,0,0,0,0,0,0,0,0.0,0,99,0.0,Madrid,Madrid
+2025-05-17,"Calle de Alcantara, 14, Madrid, Spain",115,18.02,4,0,0,1,0,0,0,0,0,10.81,0,115,0.0,Madrid,Madrid
+2025-02-08,"Calle de Alcantara, 14, Madrid, Spain",138,19.1,5,0,0,0,0,0,0,0,0,14.33,0,138,0.0,Madrid,Madrid
+2025-03-15,"Calle de Alcantara, 14, Madrid, Spain",98,18.69,5,0,0,0,1,0,0,0,0,46.73,1,99,1.0101010101010102,Madrid,Madrid
+2025-05-03,"Calle de Alcantara, 14, Madrid, Spain",120,18.82,5,0,0,1,0,0,0,0,0,14.12,0,120,0.0,Madrid,Madrid
+2025-02-01,"Calle de Alcantara, 14, Madrid, Spain",130,17.77,6,0,0,0,0,0,0,0,0,53.31,0,130,0.0,Madrid,Madrid
+2025-02-15,"Calle de Alcantara, 14, Madrid, Spain",106,18.33,6,0,0,0,0,0,0,0,0,32.99,0,106,0.0,Madrid,Madrid
+2025-02-22,"Calle de Alcantara, 14, Madrid, Spain",102,20.06,6,0,0,0,0,0,0,0,0,18.05,0,102,0.0,Madrid,Madrid
+2025-03-29,"Calle de Alcantara, 14, Madrid, Spain",85,20.93,6,0,0,0,1,0,0,0,1,37.67,2,87,2.2988505747126435,Madrid,Madrid
+2025-05-10,"Calle de Alcantara, 14, Madrid, Spain",128,19.09,6,0,0,1,0,0,0,0,0,34.36,0,128,0.0,Madrid,Madrid
+2025-05-31,"Calle de Alcantara, 14, Madrid, Spain",122,17.8,6,0,1,1,0,0,0,0,0,32.04,0,122,0.0,Madrid,Madrid
+2025-01-11,"Calle de Alcantara, 14, Madrid, Spain",81,19.05,7,0,0,0,0,0,0,0,0,20.0,0,81,0.0,Madrid,Madrid
+2025-04-05,"Calle de Alcantara, 14, Madrid, Spain",95,19.17,8,0,0,0,0,0,0,0,0,46.01,0,95,0.0,Madrid,Madrid
+2025-01-25,"Calle de Alcantara, 14, Madrid, Spain",147,18.23,11,0,0,1,0,0,0,0,0,30.08,0,147,0.0,Madrid,Madrid
+2025-01-18,"Calle de Alcantara, 14, Madrid, Spain",196,17.25,12,0,0,0,1,0,0,0,0,62.1,1,197,0.5076142131979695,Madrid,Madrid
+2020-12-28,"Principe Pio Shopping Center, Paseo de la Florida, Madrid, Spain",19,18.39,0,0,0,0,0,0,0,0,0,0.0,0,19,0.0,Madrid,Madrid
+2025-01-04,"Principe Pio Shopping Center, Paseo de la Florida, Madrid, Spain",39,20.76,1,0,0,1,0,0,0,0,0,16.61,0,39,0.0,Madrid,Madrid
+2025-01-11,"Principe Pio Shopping Center, Paseo de la Florida, Madrid, Spain",16,20.63,1,0,0,0,0,0,0,0,0,16.5,0,16,0.0,Madrid,Madrid
+2025-02-01,"Principe Pio Shopping Center, Paseo de la Florida, Madrid, Spain",26,15.66,1,0,0,0,0,0,0,0,0,7.83,0,26,0.0,Madrid,Madrid
+2025-02-15,"Principe Pio Shopping Center, Paseo de la Florida, Madrid, Spain",20,23.25,1,0,0,0,0,0,0,0,0,11.63,0,20,0.0,Madrid,Madrid
+2025-01-18,"Principe Pio Shopping Center, Paseo de la Florida, Madrid, Spain",48,17.04,0,0,0,0,0,0,0,2,0,0.0,2,50,4.0,Madrid,Madrid
+2025-01-25,"Principe Pio Shopping Center, Paseo de la Florida, Madrid, Spain",31,17.64,0,0,0,0,0,0,0,0,0,0.0,0,31,0.0,Madrid,Madrid
+2025-05-03,"Principe Pio Shopping Center, Paseo de la Florida, Madrid, Spain",28,18.02,1,0,0,0,0,0,0,0,0,2.7,0,28,0.0,Madrid,Madrid
+2025-05-10,"Principe Pio Shopping Center, Paseo de la Florida, Madrid, Spain",17,20.21,1,0,0,0,0,0,0,0,0,10.11,0,17,0.0,Madrid,Madrid
+2025-02-08,"Principe Pio Shopping Center, Paseo de la Florida, Madrid, Spain",20,16.02,0,0,0,0,0,0,0,0,0,0.0,0,20,0.0,Madrid,Madrid
+2025-02-22,"Principe Pio Shopping Center, Paseo de la Florida, Madrid, Spain",15,15.42,0,0,0,0,0,0,0,0,0,0.0,0,15,0.0,Madrid,Madrid
+2025-03-01,"Principe Pio Shopping Center, Paseo de la Florida, Madrid, Spain",30,19.11,0,0,0,0,0,0,0,0,0,0.0,0,30,0.0,Madrid,Madrid
+2025-03-08,"Principe Pio Shopping Center, Paseo de la Florida, Madrid, Spain",25,17.73,0,0,0,0,0,0,0,0,0,0.0,0,25,0.0,Madrid,Madrid
+2025-03-15,"Principe Pio Shopping Center, Paseo de la Florida, Madrid, Spain",19,16.82,0,0,0,0,0,0,0,0,0,0.0,0,19,0.0,Madrid,Madrid
+2025-03-22,"Principe Pio Shopping Center, Paseo de la Florida, Madrid, Spain",20,14.37,0,0,0,0,0,0,0,0,0,0.0,0,20,0.0,Madrid,Madrid
+2025-03-29,"Principe Pio Shopping Center, Paseo de la Florida, Madrid, Spain",29,17.75,0,0,0,0,0,0,0,0,0,0.0,0,29,0.0,Madrid,Madrid
+2025-04-05,"Principe Pio Shopping Center, Paseo de la Florida, Madrid, Spain",24,17.68,0,0,0,0,0,0,0,0,0,0.0,0,24,0.0,Madrid,Madrid
+2025-04-12,"Principe Pio Shopping Center, Paseo de la Florida, Madrid, Spain",25,18.12,0,0,0,0,0,0,0,0,0,0.0,0,25,0.0,Madrid,Madrid
+2025-04-19,"Principe Pio Shopping Center, Paseo de la Florida, Madrid, Spain",32,18.03,0,0,0,0,0,0,0,0,0,0.0,0,32,0.0,Madrid,Madrid
+2025-04-26,"Principe Pio Shopping Center, Paseo de la Florida, Madrid, Spain",17,18.11,0,0,0,0,1,0,0,0,0,0.0,1,18,5.555555555555555,Madrid,Madrid
+2025-05-17,"Principe Pio Shopping Center, Paseo de la Florida, Madrid, Spain",13,16.98,0,0,0,0,0,0,0,0,0,0.0,0,13,0.0,Madrid,Madrid
+2025-05-24,"Principe Pio Shopping Center, Paseo de la Florida, Madrid, Spain",3,12.17,0,0,0,0,0,0,0,3,0,0.0,3,6,50.0,Madrid,Madrid
+2025-05-31,"Principe Pio Shopping Center, Paseo de la Florida, Madrid, Spain",0,0.0,0,0,0,0,0,0,0,3,0,0.0,3,3,100.0,Madrid,Madrid
+2025-02-01,"Calle Calderilla, Madrid, Spain",33,25.47,1,0,1,0,0,0,0,0,0,7.64,0,33,0.0,Madrid,Madrid
+2025-02-08,"Calle Calderilla, Madrid, Spain",27,23.33,1,0,0,0,0,0,0,0,0,7.0,0,27,0.0,Madrid,Madrid
+2025-02-15,"Calle Calderilla, Madrid, Spain",25,25.73,1,0,0,0,0,0,0,0,0,7.72,0,25,0.0,Madrid,Madrid
+2025-03-01,"Calle Calderilla, Madrid, Spain",23,26.19,1,0,0,0,0,0,0,0,0,7.86,0,23,0.0,Madrid,Madrid
+2025-03-08,"Calle Calderilla, Madrid, Spain",17,16.82,1,0,0,0,0,0,0,0,0,2.52,0,17,0.0,Madrid,Madrid
+2025-04-12,"Calle Calderilla, Madrid, Spain",12,23.36,1,0,0,0,0,0,0,0,0,7.01,0,12,0.0,Madrid,Madrid
+2025-05-10,"Calle Calderilla, Madrid, Spain",32,21.7,1,0,0,0,0,0,0,0,0,10.85,0,32,0.0,Madrid,Madrid
+2025-01-25,"Calle Calderilla, Madrid, Spain",41,23.15,0,0,0,0,0,0,0,4,0,0.0,4,45,8.88888888888889,Madrid,Madrid
+2025-05-17,"Calle Calderilla, Madrid, Spain",20,20.87,1,0,0,0,0,0,0,0,0,6.26,0,20,0.0,Madrid,Madrid
+2025-01-18,"Calle Calderilla, Madrid, Spain",64,22.27,2,0,0,1,0,0,0,4,0,6.68,4,68,5.88235294117647,Madrid,Madrid
+2025-02-22,"Calle Calderilla, Madrid, Spain",22,25.02,0,0,0,0,0,0,0,0,0,0.0,0,22,0.0,Madrid,Madrid
+2025-04-05,"Calle Calderilla, Madrid, Spain",18,23.96,2,0,0,0,0,0,0,0,0,14.38,0,18,0.0,Madrid,Madrid
+2025-05-24,"Calle Calderilla, Madrid, Spain",18,20.33,2,0,0,0,0,0,0,0,0,6.1,0,18,0.0,Madrid,Madrid
+2025-03-15,"Calle Calderilla, Madrid, Spain",31,20.52,0,0,0,0,0,0,0,0,0,0.0,0,31,0.0,Madrid,Madrid
+2025-03-22,"Calle Calderilla, Madrid, Spain",22,17.87,0,0,0,0,0,0,0,0,0,0.0,0,22,0.0,Madrid,Madrid
+2025-03-29,"Calle Calderilla, Madrid, Spain",26,24.22,0,0,0,0,0,0,0,0,0,0.0,0,26,0.0,Madrid,Madrid
+2025-04-19,"Calle Calderilla, Madrid, Spain",22,24.02,0,0,0,1,0,0,0,0,0,0.0,0,22,0.0,Madrid,Madrid
+2025-04-26,"Calle Calderilla, Madrid, Spain",21,23.31,0,0,0,0,0,0,0,0,0,0.0,0,21,0.0,Madrid,Madrid
+2025-05-03,"Calle Calderilla, Madrid, Spain",16,22.83,0,0,0,0,0,0,0,0,0,0.0,0,16,0.0,Madrid,Madrid
